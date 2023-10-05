@@ -6,10 +6,10 @@ import mysql.connector
 
 # Replace these values with your own database credentials
 db_config = {
-    host="localhost",
-    user="pp",
-    password="poop_prom",
-    database="POOPPROM"
+    host="poopdb.ctdl0ufcmt9o.us-east-1.rds.amazonaws.com",
+    user="admin",
+    password="Poopprom",
+    database="poopdb"
 }
 
 # Establish a connection to the MySQL database
